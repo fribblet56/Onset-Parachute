@@ -47,9 +47,9 @@ DISABLE_COMMANDE = false -- Set to true for disabled command
 ```
 ## Package Commands
 ``
-/p-fly -- tp player to z 40000
-/p -- add parachute to player
-/p-spawn -- Spawn parachute
+/p-fly -- tp player to z 40000 </br>
+/p -- add parachute to player </br>
+/p-spawn -- Spawn parachute </br>
 ``
 
 ## Discord
